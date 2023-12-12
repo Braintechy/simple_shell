@@ -1,10 +1,10 @@
 #include "simple_shell.h"
 
 /**
- * interactive - ...
- * @info: ...
+ * interactive - ..
+ * @info: ..
  *
- * Return: ...
+ * Return: ..
  */
 int interactive(infot *info)
 {
@@ -12,10 +12,10 @@ int interactive(infot *info)
 }
 
 /**
- * isdelim - ...
- * @a: ...
- * @del: ...
- * Return: ...
+ * isdelim - ..
+ * @a: ..
+ * @del: ..
+ * Return: ..
  */
 int isdelim(char a, char *del)
 {
