@@ -1,9 +1,9 @@
 #include "simple_shell.h"
 
 /**
- * _myexit - ...
- * @info: ...
- * Return: ...
+ * _myexit - ..
+ * @info: ..
+ * Return: ..
  */
 int _myexit(infot *info)
 {
