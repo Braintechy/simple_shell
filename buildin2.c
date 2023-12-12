@@ -1,9 +1,9 @@
 #include "simple_shell.h"
 
 /**
- * _myhistory - ...
- * @info: ...
- * Return: ...
+ * _myhistory - ..
+ * @info: ..
+ * Return: ..
  */
 int _myhistory(infot *info)
 {
@@ -12,9 +12,9 @@ int _myhistory(infot *info)
 }
 
 /**
- * unsetalias - ...
- * @info: ...
- * @str: ...
+ * unsetalias - ..
+ * @info: ..
+ * @str: ..
  *
  * Return: ...
  */
