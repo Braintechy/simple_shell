@@ -1,10 +1,10 @@
 #include "simple_shell.h"
 
 /**
- * _strlen - ...
- * @t: ...
+ * _strlen - ..
+ * @t: ..
  *
- * Return: ...
+ * Return: ..
  */
 int _strlen(char *t)
 {
@@ -19,11 +19,11 @@ int _strlen(char *t)
 }
 
 /**
- * _strcmp - ...
- * @t1: ...
- * @t2: ...
+ * _strcmp - ..
+ * @t1: ..
+ * @t2: ..
  *
- * Return: ...
+ * Return: ..
  */
 int _strcmp(char *t1, char *t2)
 {
